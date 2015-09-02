@@ -1,6 +1,6 @@
 {
   "name": "eslint-rules-legacy",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "ESLint rules for JSHint/JSLint compatibility.",
   "author": {
     "name": "Athan Reines",
